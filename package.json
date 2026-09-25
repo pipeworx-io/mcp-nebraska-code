@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nebraska-code",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Nebraska Revised Statutes — state statutes by citation.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-c4b0a17c06035999b6e196ef07f7f91ff5ddcce840d29e03489b59e6a4f907f1",
+    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
   }
 }
